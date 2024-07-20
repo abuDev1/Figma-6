@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
 }
 
 .lorem {
     color: red;
+=======
+p {
+    color: green;
+>>>>>>> main
     font-size: 30px;
     text-align: center;
 }
